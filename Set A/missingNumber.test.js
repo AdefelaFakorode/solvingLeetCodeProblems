@@ -1,6 +1,6 @@
 const missingNumber = require("./missingNumber");
 
-describe("Missing Number", () => {
+describe("Mising Number", () => {
   test("Example 1", () => {
     const nums = [3, 0, 1];
     expect(missingNumber(nums)).toBe(2);

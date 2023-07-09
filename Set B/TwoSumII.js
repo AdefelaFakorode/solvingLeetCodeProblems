@@ -1,3 +1,10 @@
+/*
+Problem Description: Given an array 
+of integers numbers that is already 
+sorted in ascending order, find two numbers 
+such that they add up to a specific target number.
+*/
+
 var twoSum = function(numbers, target) {
     let left = 0;                        // Initialize the left pointer to the start of the array
     let right = numbers.length - 1;      // Initialize the right pointer to the end of the array

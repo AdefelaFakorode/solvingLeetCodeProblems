@@ -5,7 +5,7 @@ coordinate (i, ai). n vertical lines are drawn, and
  the two endpoints of the line i are at 
  (i, ai) and (i, 0). Find two lines, which, 
  together with the x-axis, forms a container that 
- contains the most water.
+ contains the most watr.
 
 */
 
